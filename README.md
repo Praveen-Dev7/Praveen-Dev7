@@ -1,9 +1,11 @@
-![logo](<img width="1586" height="672" alt="17794774887511700645289853289257" src="https://github.com/user-attachments/assets/d7bc43dd-bc6c-4582-a7ec-33b9114dcec6" />)
+<p align="center">
+  <img src="1779388595508~2.png" alt="Praveen - Android Developer Banner" width="100%">
+</p>
 
+# # **Hi, I'm Praveen 💫**
 
-# # 💫**Hi, I'm Praveen **
+### **Full-Stack Android Developer** Building modern, high-performance mobile experiences with **Kotlin & Jetpack Compose** powered by robust **Firebase** cloud integrations.
 
-I'm a passionate Software Engineer specializing in Native Android and Full-Stack development. I build high-performance mobile experiences using **Kotlin** and **Jetpack Compose**, backed by scalable server-side systems powered by **Spring Boot**. From clean architectural design to seamless API integration, I focus on crafting intuitive, feature-rich applications that solve real-world problems. Currently refining my skills in modern system design and cloud deployments, I am driven by innovation and always eager to collaborate on open-source projects or impactful tech solutions.
 
 ---
 
