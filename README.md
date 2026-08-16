@@ -22,31 +22,31 @@ Building modern, scalable Android applications with clean architecture and intel
 ### 🤖 UI & Frameworks
 * **UI Development:** Modern declarative UI with **Jetpack Compose**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" height="50" />
-  <img src="https://raw.githubusercontent.com/Praveen-Dev7/Praveen-Dev7/main/Jetpack_Compose_logo.png" height="55" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" height="45" />
+  <img src="https://raw.githubusercontent.com/Praveen-Dev7/Praveen-Dev7/main/Jetpack_Compose_logo.png" height="50" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ktor,firebase" height="50" />
+  <img src="https://skillicons.dev/icons?i=ktor,firebase" height="45" />
 </p>
 
 ### 🌐 API Integration
 * **Expertise:** REST APIs, Retrofit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ktor" height="50" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="45" />
 </p>
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase,sqlite" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase,sqlite" height="45" />
 </p>
 
 ### 🛠️ Tools & Design (AI/ML)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="50" />
-  <img src="https://raw.githubusercontent.com/Praveen-Dev7/Praveen-Dev7/main/hero.png" height="50" />
-  <img src="https://raw.githubusercontent.com/Praveen-Dev7/Praveen-Dev7/main/1280px-Google_Gemini_icon_2025.svg.png" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="45" />
+  <img src="https://raw.githubusercontent.com/Praveen-Dev7/Praveen-Dev7/main/hero.png" height="45" />
+  <img src="https://raw.githubusercontent.com/Praveen-Dev7/Praveen-Dev7/main/1280px-Google_Gemini_icon_2025.svg.png" height="45" />
 </p>
 
 ---
