@@ -58,8 +58,7 @@ Building modern, scalable Android applications with clean architecture and intel
 
 <p align="center">
   <img
-src="https://ghchart.rshah.org/40c463/Praveen-Dev7"
-    alt="Praveen's Contribution Heatmap"
+    src="https://github-commit-map.yzzi.icu/api/contributions/Praveen-Dev7/svg"
     width="100%"
   />
 </p>
