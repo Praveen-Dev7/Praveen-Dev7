@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1779388595508~2.png" alt="Praveen - Android Developer Banner" width="100%">
+  <img src="1779388595508~2.png" alt="Praveen - Android Developer Banner" height="200%", width="200%">
 </p>
 
 
@@ -51,16 +51,26 @@ Building modern, scalable Android applications with clean architecture and intel
 
 ---
 
-## 📊 GitHub Stats:
+
+  
+
+## 📊 GitHub Activity & Stats:
+
+<p align="center">
+  <img
+src="https://ghchart.rshah.org/40c463/Praveen-Dev7"
+    alt="Praveen's Contribution Heatmap"
+    width="100%"
+  />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Praveen-Dev7&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Praveen's GitHub Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Praveen-Dev7&theme=dark&hide_border=false" alt="Praveen's GitHub Streak" height="150" />
-</p> 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Praveen-Dev7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="140M"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Praveen-Dev7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150" />
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Praveen-Dev7&icon=0&color=blue" alt="Profile Views"/>
 </p>
